@@ -1,2 +1,0 @@
-# clayoblair.github.io
-htmlbasic
